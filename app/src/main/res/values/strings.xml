@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="Recipie">Recipie</string>
+
+
+    <string name="servings">Servings:</string>
+    <string name="ingredients_text">INGREDIENTS:</string>
+    <string name="steps_text">Steps:</string>
+    <string name="application_name_exo_player">RecipeStepsVideo</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="ok_button">OK</string>
+    <string name="network_error">Check your internet connection!!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_widget">Add widget</string>
+</resources>
